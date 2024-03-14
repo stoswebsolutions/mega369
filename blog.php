@@ -33,7 +33,7 @@
             <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
                 <h2>Blog</h2>
                 <ol>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li>Blog</li>
                 </ol>
             </div>
@@ -63,7 +63,7 @@
                                     Purchasing a residential plot is a significant decision that requires careful consideration and thorough research. Whether you're looking to build your dream home or make a smart investment, there are several key factors to keep in mind to ensure that you make an informed decision.
                                 </p>
                                 <hr>
-                                <a href="blog1.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog1" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post list item -->
@@ -88,7 +88,7 @@
                                     Investing in residential plots can be a lucrative opportunity for individuals looking to diversify their investment portfolio and build long-term wealth. However, like any investment, it requires careful planning, research, and risk management. In this blog, we share valuable tips for success when investing in residential plots.
                                 </p>
                                 <hr>
-                                <a href="blog2.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog2" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post list item -->
@@ -113,7 +113,7 @@
                                     Building your dream home on a residential plot is an exciting journey that allows you to bring your vision to life and create a space that reflects your lifestyle and preferences. In this blog, we explore the various aspects of building a dream home on a residential plot and provide tips for success.
                                 </p>
                                 <hr>
-                                <a href="blog3.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog3" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post list item -->

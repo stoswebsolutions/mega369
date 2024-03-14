@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5" data-aos="fade">
-                        <form action="enquiry.php" method="post" class="php-email-form">
+                        <form action="enquiry" method="post" class="php-email-form">
                             <h3>Ready to find your ideal plot?</h3>
                             <p>Get in touch with us today to schedule a viewing or learn more about our available plots.</p>
                             <div class="row gy-3">
@@ -357,7 +357,7 @@
                                     <h4>Remodeling</h4>
                                     <p></p>
                                     <a href="assets/images/gallery1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="project-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Projects Item -->
@@ -368,7 +368,7 @@
                                     <h4>Construction</h4>
                                     <p></p>
                                     <a href="assets/images/gallery3.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="project-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Projects Item -->
@@ -379,7 +379,7 @@
                                     <h4>Repairs</h4>
                                     <p></p>
                                     <a href="assets/images/gallery1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="project-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Projects Item -->
@@ -390,7 +390,7 @@
                                     <h4>Design</h4>
                                     <p></p>
                                     <a href="assets/images/gallery3.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="project-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Projects Item -->
@@ -523,7 +523,7 @@
                                     </div>
                                 </div>
                                 <hr>
-                                <a href="blog1.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog1" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post item -->
@@ -545,7 +545,7 @@
                                     </div>
                                 </div>
                                 <hr>
-                                <a href="blog2.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog2" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post item -->
@@ -567,7 +567,7 @@
                                     </div>
                                 </div>
                                 <hr>
-                                <a href="blog3.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="blog3" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End post item -->

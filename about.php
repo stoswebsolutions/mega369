@@ -33,7 +33,7 @@
             <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
                 <h2>About</h2>
                 <ol>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li>About</li>
                 </ol>
             </div>

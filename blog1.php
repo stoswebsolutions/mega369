@@ -33,7 +33,7 @@
             <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
                 <h2>Blog Details</h2>
                 <ol>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li>Blog Details</li>
                 </ol>
             </div>
@@ -50,9 +50,9 @@
                             <h2 class="title">Top Considerations When Buying a Residential Plot</h2>
                             <div class="meta-top">
                                 <ul>
-                                    <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog1.php">Julia Parker</a></li>
-                                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog1.php"><time datetime="2024-03-14">March 14, 2024</time></a></li>
-                                    <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog1.php">Comments</a></li>
+                                    <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog1">Julia Parker</a></li>
+                                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog1"><time datetime="2024-03-14">March 14, 2024</time></a></li>
+                                    <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog1">Comments</a></li>
                                 </ul>
                             </div><!-- End meta top -->
                             <div class="content">
@@ -108,21 +108,21 @@
                                     <div class="post-item mt-3">
                                         <img src="assets/images/plot.jfif" alt="">
                                         <div>
-                                            <h4><a href="blog1.php">Top Considerations When Buying a Residential Plot</a></h4>
+                                            <h4><a href="blog1">Top Considerations When Buying a Residential Plot</a></h4>
                                             <time datetime="2024-03-14">March 14, 2024</time>
                                         </div>
                                     </div><!-- End recent post item-->
                                     <div class="post-item">
                                         <img src="assets/images/tips.jfif" alt="">
                                         <div>
-                                            <h4><a href="blog2.php">Investing in Residential Plots: Tips for Success</a></h4>
+                                            <h4><a href="blog2">Investing in Residential Plots: Tips for Success</a></h4>
                                             <time datetime="2024-03-14">March 14, 2024</time>
                                         </div>
                                     </div><!-- End recent post item-->
                                     <div class="post-item">
                                         <img src="assets/images/house.jfif" alt="">
                                         <div>
-                                            <h4><a href="blog3.php">Creating Your Dream Home: Building on a Residential Plot</a></h4>
+                                            <h4><a href="blog3">Creating Your Dream Home: Building on a Residential Plot</a></h4>
                                             <time datetime="2024-03-14">March 14, 2024</time>
                                         </div>
                                     </div><!-- End recent post item-->
