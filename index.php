@@ -41,7 +41,8 @@
             </div>
         </div>
         <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-            <div class="carousel-item active" style="background-image: url(assets/images/banner1.png)"></div>
+            <div class="carousel-item active" style="background-image: url(assets/images/dtcp.jpg)"></div>
+            <div class="carousel-item" style="background-image: url(assets/images/banner2.png)"></div>
             <div class="carousel-item" style="background-image: url(assets/images/banner2.png)"></div>
             <div class="carousel-item" style="background-image: url(assets/images/banner3.png)"></div>
             <div class="carousel-item" style="background-image: url(assets/images/layout.png)"></div>
