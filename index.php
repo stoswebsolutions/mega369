@@ -95,53 +95,48 @@
                 </div>
             </div>
         </section><!-- End Get Started Section -->
-        <!-- ======= Alt Services Section ======= -->
-        <section id="alt-services" class="alt-services">
+        <!-- ======= Constructions Section ======= -->
+        <section id="constructions" class="constructions">
             <div class="container" data-aos="fade-up">
-                <div class="row justify-content-around gy-4">
-                    <div class="col-lg-6 img-bg" style="background-image: url(assets/images/banner-logo.png);" data-aos="zoom-in" data-aos-delay="100"></div>
-                    <div class="col-lg-5 d-flex flex-column justify-content-center">
-                        <h3>Company Profile</h3>
-                        <p>At Megha 369 Developers, we are dedicated to crafting exceptional living spaces that redefine the concept of modern living. With a rich legacy of delivering quality projects, we have established ourselves as a trusted name in the real estate industry.</p>
-                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-                            <i class="bi bi-easel flex-shrink-0"></i>
-                            <div>
-                                <h4><a href="" class="stretched-link">Prime Locations</a></h4>
-                                <p>Our projects are strategically located in areas with excellent connectivity, proximity to essential amenities, and serene surroundings.</p>
+                <div class="section-header">
+                    <h2>Projects</h2>
+                </div>
+                <div class="row gy-4">
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card-item">
+                            <div class="row">
+                                <div class="col-xl-5">
+                                    <div class="card-bg" style="background-image: url(assets/images/dtcp.jpg);"></div>
+                                </div>
+                                <div class="col-xl-7 d-flex align-items-center">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Mega369 DTCP Township</h4>
+                                        <p>Explore luxury living at Mega369 DTCP Township. With DTCP approval, our prime location offers modern amenities and legal assurance for your dream home or investment.</p>
+                                        <a href="dtcp" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                                    </div>
+                                </div>
                             </div>
-                        </div><!-- End Icon Box -->
-                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-                            <i class="bi bi-patch-check flex-shrink-0"></i>
-                            <div>
-                                <h4><a href="" class="stretched-link">Quality Construction</a></h4>
-                                <p>We adhere to the highest standards of construction quality and craftsmanship, ensuring durability, safety, and aesthetic appeal in every structure we build.</p>
+                        </div>
+                    </div><!-- End Card Item -->
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="card-item">
+                            <div class="row">
+                                <div class="col-xl-5">
+                                    <div class="card-bg" style="background-image: url(assets/images/farm.jpg);"></div>
+                                </div>
+                                <div class="col-xl-7 d-flex align-items-center">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Mega369 Farm Lands</h4>
+                                        <p>Experience rural tranquility at Mega369 Farm Lands. Nestled in scenic surroundings, our fertile plots are ideal for agriculture, horticulture, or a peaceful getaway.</p>
+                                        <a href="farm" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                                    </div>
+                                </div>
                             </div>
-                        </div><!-- End Icon Box -->
-                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-                            <i class="bi bi-brightness-high flex-shrink-0"></i>
-                            <div>
-                                <h4><a href="" class="stretched-link">Customer-Centric Approach</a></h4>
-                                <p>At Megha 369 Developers, customer satisfaction is our top priority. We prioritize open communication, transparency, and responsiveness to fulfill the needs and preferences of our valued customers.</p>
-                            </div>
-                        </div><!-- End Icon Box -->
-                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                            <i class="bi bi-brightness-high flex-shrink-0"></i>
-                            <div>
-                                <h4><a href="" class="stretched-link">Innovative Design</a></h4>
-                                <p>Our team of architects and designers is dedicated to creating innovative and functional spaces that enhance the quality of life for our residents. We focus on incorporating modern design trends, sustainable practices, and ergonomic layouts in our projects.</p>
-                            </div>
-                        </div><!-- End Icon Box -->
-                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                            <i class="bi bi-brightness-high flex-shrink-0"></i>
-                            <div>
-                                <h4><a href="" class="stretched-link">Commitment to Sustainability</a></h4>
-                                <p>We are committed to environmental sustainability and strive to integrate eco-friendly practices into our projects. From energy-efficient features to green spaces, we aim to minimize our ecological footprint and promote a greener tomorrow.</p>
-                            </div>
-                        </div><!-- End Icon Box -->
-                    </div>
+                        </div>
+                    </div><!-- End Card Item -->
                 </div>
             </div>
-        </section><!-- End Alt Services Section -->
+        </section><!-- End Constructions Section -->
         <!-- ======= Services Section ======= -->
         <section id="services" class="services section-bg">
             <div class="container" data-aos="fade-up">
@@ -213,6 +208,53 @@
                 </div>
             </div>
         </section><!-- End Services Section -->
+        <!-- ======= Alt Services Section ======= -->
+        <section id="alt-services" class="alt-services">
+            <div class="container" data-aos="fade-up">
+                <div class="row justify-content-around gy-4">
+                    <div class="col-lg-6 img-bg" style="background-image: url(assets/images/banner-logo.png);" data-aos="zoom-in" data-aos-delay="100"></div>
+                    <div class="col-lg-5 d-flex flex-column justify-content-center">
+                        <h3>Company Profile</h3>
+                        <p>At Megha 369 Developers, we are dedicated to crafting exceptional living spaces that redefine the concept of modern living. With a rich legacy of delivering quality projects, we have established ourselves as a trusted name in the real estate industry.</p>
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                            <i class="bi bi-easel flex-shrink-0"></i>
+                            <div>
+                                <h4><a href="" class="stretched-link">Prime Locations</a></h4>
+                                <p>Our projects are strategically located in areas with excellent connectivity, proximity to essential amenities, and serene surroundings.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-patch-check flex-shrink-0"></i>
+                            <div>
+                                <h4><a href="" class="stretched-link">Quality Construction</a></h4>
+                                <p>We adhere to the highest standards of construction quality and craftsmanship, ensuring durability, safety, and aesthetic appeal in every structure we build.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                            <i class="bi bi-brightness-high flex-shrink-0"></i>
+                            <div>
+                                <h4><a href="" class="stretched-link">Customer-Centric Approach</a></h4>
+                                <p>At Megha 369 Developers, customer satisfaction is our top priority. We prioritize open communication, transparency, and responsiveness to fulfill the needs and preferences of our valued customers.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-brightness-high flex-shrink-0"></i>
+                            <div>
+                                <h4><a href="" class="stretched-link">Innovative Design</a></h4>
+                                <p>Our team of architects and designers is dedicated to creating innovative and functional spaces that enhance the quality of life for our residents. We focus on incorporating modern design trends, sustainable practices, and ergonomic layouts in our projects.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-brightness-high flex-shrink-0"></i>
+                            <div>
+                                <h4><a href="" class="stretched-link">Commitment to Sustainability</a></h4>
+                                <p>We are committed to environmental sustainability and strive to integrate eco-friendly practices into our projects. From energy-efficient features to green spaces, we aim to minimize our ecological footprint and promote a greener tomorrow.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Alt Services Section -->
         <!-- ======= Features Section ======= -->
         <section id="features" class="features section-bg">
             <div class="container" data-aos="fade-up">
